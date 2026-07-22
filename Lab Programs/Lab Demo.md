@@ -50,13 +50,13 @@ https://www.figma.com/make/mEYoyP2DmogD9CQOjUhPcL/Dashboard-prototype-review?t=0
 
 ## Experiment 9 : Develop a user interface prototype for a GSM service using Figma.
 
-*Add your Figma link here.*
+https://www.figma.com/make/0hJXShDMdFayvHKxFgUfwG/GSM-Service-UI-Prototype?t=gwhNWO8SVDLINXe9-20&fullscreen=1
 
 ---
 
 ## Experiment 10 : Create a visual representation in Figma showcasing the differences between various multiple access techniques.
 
-*Add your Figma link here.*
+https://www.figma.com/make/PaUF6KyKa2733UGCjKt1Xm/Visualize-Multiple-Access-Techniques?t=IOZPlPDjaWH50Lnt-20&fullscreen=1
 
 ---
 
