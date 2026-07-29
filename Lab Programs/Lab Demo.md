@@ -60,12 +60,77 @@ https://www.figma.com/make/PaUF6KyKa2733UGCjKt1Xm/Visualize-Multiple-Access-Tech
 
 ---
 
+
 ## Experiment 11 : Design a wireframe for a mobile application that incorporates security measures using Figma.
 
-*Add your Figma link here.*
 
 ---
-
 ## Experiment 12 : Use Figma to create an interactive diagram illustrating the evolution from 1G to 5G.
 
-*Add your Figma link here.*
+https://www.figma.com/make/nact6uCfDiD4co8Mdwg7Wg/Interactive-5G-Evolution-Diagram?t=NGgQsLPy3SLS9C4c-20&fullscreen=1
+
+---
+## Experiment 13: Design an infographic in Figma comparing mobile communication and mobile computing
+
+https://www.figma.com/make/qmA6PGDaLVo8UmQbscsQZv/Design-infographic-comparison?t=6voPMsynYAnP26Gc-20&fullscreen=1
+
+---
+## Experiment 14 : Develop a flowchart in Figma explaining the operation of General Packet Radio Service
+
+https://www.figma.com/make/TDIWJzz0mrX8WeDIv354gL/GPRS-Operation-Flowchart?t=Llj8G20gp2G7StNu-20&fullscreen=1
+
+---
+## Experiment 15 : Design an interactive presentation in Figma explaining the issues in mobile IP.
+
+https://www.figma.com/make/urwcJG7HAlSTC1caGMCKlZ/Untitled?t=Llj8G20gp2G7StNu-20&fullscreen=1
+
+---
+## Experiment 16 : Develop a wireframe for a mobile application that addresses challenges related to ad hoc wireless networks using Figma.
+
+https://www.figma.com/make/4cWDLQTGz7WOXb9BMKvGAP/Untitled?t=cTyDqC96k7DaVNVA-20&fullscreen=1
+
+---
+## Experiment 17: Create a visual representation in Figma illustrating the operation of proactive and reactive routing protocols in mobile IP.
+
+https://www.figma.com/make/xavPu3h5Crd7PxfYOWnuHP/Untitled?t=DjrbyjOEdBQwRqQT-20&fullscreen=1
+
+---
+## Experiment 18 : Use Figma to create an infographic comparing and contrasting the architectures of Android, iOS, and Windows.
+
+---
+## Experiment 19 : Develop a user interface prototype for an Android application using Figma.
+
+---
+## Experiment 20 : Design a wireframe in Figma for a mobile application showcasing power management approaches.
+
+---
+## Experiment 21 : Design a mobile app interface that prioritizes user connectivity and convenience.
+
+---
+## Experiment 22 : Create wireframes illustrating how localization features can be integrated into a mobile app
+
+---
+## Experiment 23 : Develop a user interface prototype in Figma showcasing security measures for a mobile app. 
+
+---
+## Experiment 24 : Use Figma to design a flowchart demonstrating the lifecycle of an Android Intent.
+
+---
+## Experiment 25 : Create a wireframe for an Android app that utilizes background services.
+
+---
+## Experiment 26 : Design wireframes for a mobile app showcasing data replication techniques.
+
+---
+## Experiment 27 : 27.Use Figma to create an interactive presentation comparing the Core Video framework in iOS and the multimedia framework in Android.
+
+---
+## Experiment 28 : Design a wireframe in Figma for a multimedia-rich mobile app, incorporating elements from both Core Video and Core Media frameworks.
+
+---
+## Experiment 29 : Create wireframes for a collaborative mobile app using Figma, showcasing the peer-to-peer interactions in real-time.
+
+---
+## Experiment 30 : Develop wireframes for a visually rich mobile app with optimized graphics and UI performance, using Figma to showcase the design principles.
+
+---
