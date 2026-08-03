@@ -63,6 +63,7 @@ https://www.figma.com/make/PaUF6KyKa2733UGCjKt1Xm/Visualize-Multiple-Access-Tech
 
 ## Experiment 11 : Design a wireframe for a mobile application that incorporates security measures using Figma.
 
+https://www.figma.com/make/qtP9Vj0csyIUFiIToSlX7E/Bank-app-wireframe-design?t=KcSppjuBTR4sU3wE-20&fullscreen=1
 
 ---
 ## Experiment 12 : Use Figma to create an interactive diagram illustrating the evolution from 1G to 5G.
@@ -127,6 +128,8 @@ https://www.figma.com/make/u5ugL3DxKrafBTKlcJO8Tm/User-Interface-Prototype?t=7Er
 ---
 ## Experiment 24 : Use Figma to design a flowchart demonstrating the lifecycle of an Android Intent.
 
+https://www.figma.com/make/5pW4rBFDN5dMAzYnxS6tKf/Untitled?t=delDXvS8uHuiFgHn-20&fullscreen=1
+
 ---
 ## Experiment 25 : Create a wireframe for an Android app that utilizes background services.
 
@@ -154,5 +157,7 @@ https://www.figma.com/make/hqUG6ishb7ZYpVfIPefaue/Collaborative-Mobile-App-Wiref
 
 ---
 ## Experiment 30 : Develop wireframes for a visually rich mobile app with optimized graphics and UI performance, using Figma to showcase the design principles.
+
+https://www.figma.com/make/luIHhEW4Zw557pbvGz1rLn/Create-mobile-app-wireframes?t=wBkEQNX0pttgh37O-20&fullscreen=1
 
 ---
