@@ -107,6 +107,8 @@ https://www.figma.com/make/HnHQtp0bWHAf2MNuAsEIsQ/Android-app-UI-prototype?t=bxT
 ---
 ## Experiment 20 : Design a wireframe in Figma for a mobile application showcasing power management approaches.
 
+https://www.figma.com/make/liesotzkeEdiZrcFc29OXz/Untitled?t=7Er7xMz3bPVoUtPK-20&fullscreen=1
+
 ---
 ## Experiment 21 : Design a mobile app interface that prioritizes user connectivity and convenience.
 
@@ -115,14 +117,20 @@ https://www.figma.com/make/SD7hndDCxHfZfj4fg3WzXm/Mobile-App-Interface-Design?t=
 ---
 ## Experiment 22 : Create wireframes illustrating how localization features can be integrated into a mobile app
 
+https://www.figma.com/make/4n8MwVd65FSd1sNOnQClnV/Design-localization-wireframes?t=NUBcyN0GFHiWWIcC-20&fullscreen=1
+
 ---
 ## Experiment 23 : Develop a user interface prototype in Figma showcasing security measures for a mobile app. 
+
+https://www.figma.com/make/u5ugL3DxKrafBTKlcJO8Tm/User-Interface-Prototype?t=7Er7xMz3bPVoUtPK-20&fullscreen=1
 
 ---
 ## Experiment 24 : Use Figma to design a flowchart demonstrating the lifecycle of an Android Intent.
 
 ---
 ## Experiment 25 : Create a wireframe for an Android app that utilizes background services.
+
+https://www.figma.com/make/liesotzkeEdiZrcFc29OXz/Untitled?t=7Er7xMz3bPVoUtPK-20&fullscreen=1
 
 ---
 ## Experiment 26 : Design wireframes for a mobile app showcasing data replication techniques.
