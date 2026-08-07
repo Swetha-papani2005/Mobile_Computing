@@ -1,6 +1,4 @@
-# 📱 Mobile Computing Lab – UI Design Programs
-
-This repository contains the UI design assignments created using **Figma** for the **Mobile Computing Laboratory**. Each application is designed based on the given problem statement and required functionalities.
+# 📱 Mobile Computing – UI Design Programs
 
 ---
 
