@@ -82,10 +82,3 @@ https://www.figma.com/make/XUHuagJw3WIxiRM0o2FvmC/Online-Fitness-App-Design?t=6I
 - Prototyping
 
 ---
-
-## Author
-
-**Swetha Papani**
-
-B.Tech – Computer Science and Engineering  
-Saveetha School of Engineering
